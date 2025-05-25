@@ -1,4 +1,4 @@
 # Tabs
-https://roadmap.sh/projects/simple-tabs
+Project URL > https://roadmap.sh/projects/simple-tabs
 
-https://menadion.github.io/Tabs/
+Click this link to view the Website > https://menadion.github.io/Tabs/
