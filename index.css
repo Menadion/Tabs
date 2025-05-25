@@ -4,8 +4,32 @@
     padding: 0;
 }
 
+body {
+    position: absolute;
+    top: 40%;
+    right: 40%;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    color: none;
+}
+
+a:hover {
+    text-shadow: 0.5px 0.5px black;
+}
+
+a:active {
+    color: white;
+}
+
 .outer-div {
-    border: 1px solid black;
+    border: 1px solid white;
     width: 400px;
     height: 200px;
     margin: auto;
